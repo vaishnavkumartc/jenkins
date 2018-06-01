@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19364" started-at="2018-04-09T11:57:56Z" finished-at="2018-04-09T11:58:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19364" started-at="2018-04-09T11:57:56Z" finished-at="2018-04-09T11:58:15Z">
+      <class name="testcases.RadioButton">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.RadioButton@1686d1f]" name="beforeSuite" is-config="true" duration-ms="297" started-at="2018-04-09T17:27:56Z" finished-at="2018-04-09T17:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:testcases.RadioButton@1686d1f]" name="setData" is-config="true" duration-ms="0" started-at="2018-04-09T17:27:56Z" finished-at="2018-04-09T17:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.RadioButton@1686d1f]" name="beforeClass" is-config="true" duration-ms="1" started-at="2018-04-09T17:27:56Z" finished-at="2018-04-09T17:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.RadioButton@1686d1f]" name="beforeMethod" is-config="true" duration-ms="7531" started-at="2018-04-09T17:27:56Z" finished-at="2018-04-09T17:28:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginAndLogout()[pri:0, instance:testcases.RadioButton@1686d1f]" name="loginAndLogout" duration-ms="11099" started-at="2018-04-09T17:28:03Z" finished-at="2018-04-09T17:28:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAndLogout -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.RadioButton@1686d1f]" name="afterMethod" is-config="true" duration-ms="712" started-at="2018-04-09T17:28:15Z" finished-at="2018-04-09T17:28:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.RadioButton@1686d1f]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-04-09T17:28:15Z" finished-at="2018-04-09T17:28:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.RadioButton@1686d1f]" name="afterSuite" is-config="true" duration-ms="274" started-at="2018-04-09T17:28:15Z" finished-at="2018-04-09T17:28:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.RadioButton -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
